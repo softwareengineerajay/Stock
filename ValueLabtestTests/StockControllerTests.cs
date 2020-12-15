@@ -14,6 +14,7 @@ namespace ValueLabtestTests
         private Mock<IStockServices> stockservice;
         private StockController stockController;
 
+
         [SetUp]
         public void Setup()
         {
